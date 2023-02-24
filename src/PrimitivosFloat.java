@@ -1,4 +1,4 @@
-public class PrimitivoFloat {
+public class PrimitivosFloat {
     static float varFloat;
     public static void main(String[] args) {
         
